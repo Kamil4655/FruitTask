@@ -1,0 +1,15 @@
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.csproj.AssemblyReference.cache
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.AssemblyInfoInputs.cache
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.AssemblyInfo.cs
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.19\Desktop\FruitsTask\bin\Debug\net6.0\FruitsTask.exe
+C:\Users\ca.r214.19\Desktop\FruitsTask\bin\Debug\net6.0\FruitsTask.deps.json
+C:\Users\ca.r214.19\Desktop\FruitsTask\bin\Debug\net6.0\FruitsTask.runtimeconfig.json
+C:\Users\ca.r214.19\Desktop\FruitsTask\bin\Debug\net6.0\FruitsTask.dll
+C:\Users\ca.r214.19\Desktop\FruitsTask\bin\Debug\net6.0\FruitsTask.pdb
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.dll
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\refint\FruitsTask.dll
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.pdb
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\FruitsTask.genruntimeconfig.cache
+C:\Users\ca.r214.19\Desktop\FruitsTask\obj\Debug\net6.0\ref\FruitsTask.dll
